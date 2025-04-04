@@ -9,7 +9,8 @@
 ### 💻 Sobre mim
 
 - 🔧 Estagiário de desenvolvimento
-- 🎓 Cursando Manutenção e Suporte em Informática
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**
+- ✅ Técnico em **Manutenção e Suporte em Informática (MSI)**
 - 🔁 Experiência com manutenção de computadores e redes escolares
 - 🛠️ Desenvolvendo um gerenciador financeiro chamado **CoinClass**
 - 🤖 Criando bots com **WhatsApp API**, **Node.js** e **Vue.js**
@@ -33,7 +34,7 @@
 ### 📌 Projetos em destaque
 
 - 🔗 [CoinClass](https://github.com/Chavesz/coinclass) — gerenciador financeiro com Vue.js e Node.js
-- 🤖 Bot para WhatsApp(https://github.com/Chavesz/Barbearia_BotWhatsapp) — envio automático de mensagens e links de agendamento para barbearias
+- 🤖 [Bot para WhatsApp](https://github.com/Chavesz/Barbearia_BotWhatsapp) — envio automático de mensagens e links de agendamento para barbearias
 - ⚡ Projetos com Arduino — sensores, automações e testes práticos
 
 ---
