@@ -33,15 +33,15 @@
 ### 📌 Projetos em destaque
 
 - 🔗 [CoinClass](https://github.com/Chavesz/coinclass) — gerenciador financeiro com Vue.js e Node.js
-- 🤖 Bot para WhatsApp — envio automático de mensagens e links de agendamento para barbearias
+- 🤖 Bot para WhatsApp(https://github.com/Chavesz/Barbearia_BotWhatsapp) — envio automático de mensagens e links de agendamento para barbearias
 - ⚡ Projetos com Arduino — sensores, automações e testes práticos
 
 ---
 
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
-[![Gmail](https://img.shields.io/badge/-kaua.seuemail@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kaua.seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-chaves-42879b263/)
+[![Gmail](https://img.shields.io/badge/-kauachaves50@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kauachaves50@gmail.com)
 
 ---
 
